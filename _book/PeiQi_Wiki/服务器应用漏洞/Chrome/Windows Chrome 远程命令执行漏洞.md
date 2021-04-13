@@ -1,14 +1,14 @@
-# Chrom 远程命令执行漏洞
+# Chrome 远程命令执行漏洞
 
 ## 漏洞描述
 
-Windows Chrom 0day  在 2021-4-13 被公开
+Windows Chrome 0day  在 2021-4-13 被公开
 
 ## 漏洞影响
 
 > [!NOTE]
 >
-> Window Chrom 浏览器
+> Window Chrome 浏览器
 
 ## 漏洞复现
 

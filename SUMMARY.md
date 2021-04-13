@@ -102,8 +102,8 @@
 	   * [和信创天云桌面系统 远程命令执行 RCE漏洞](PeiQi_Wiki/服务器应用漏洞/和信创天云/和信创天云桌面系统 远程命令执行 RCE漏洞.md)
 	* [金山](PeiQi_Wiki/服务器应用漏洞/金山/README.md)
 	   * [金山 V8 终端安全系统 默认弱口令漏洞](PeiQi_Wiki/服务器应用漏洞/金山/金山 V8 终端安全系统 默认弱口令漏洞.md)
-	* [Chrom](PeiQi_Wiki/服务器应用漏洞/Chrom/README.md)
-	   * [Windows Chrom 远程命令执行漏洞](PeiQi_Wiki/服务器应用漏洞/Chrom/Windows Chrom 远程命令执行漏洞.md)
+	* [Chrome](PeiQi_Wiki/服务器应用漏洞/Chrome/README.md)
+	   * [Windows Chrome 远程命令执行漏洞](PeiQi_Wiki/服务器应用漏洞/Chrome/Windows Chrome 远程命令执行漏洞.md)
 	
 * [Web应用漏洞](PeiQi_Wiki/Web应用漏洞/README.md)
 	* [宝塔运维管理面板](PeiQi_Wiki/Web应用漏洞/宝塔运维管理面板/README.md)
